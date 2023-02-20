@@ -1,7 +1,7 @@
 // public: full
 // private: class
 // protected: class package subclass
-// no-modifier: class package
+// no-modifier: class package 
 
 
 public class Main {
