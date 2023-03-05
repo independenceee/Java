@@ -1,7 +1,7 @@
-// public: full
-// private: class
-// protected: class package subclass
-// no-modifier: class package 
+// public: full => đồ chung
+// private: class => riêng
+// protected: class package subclass => họ hàng
+// no-modifier: class package => bạn
 
 
 public class Main {
